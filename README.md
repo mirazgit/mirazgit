@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mirazdev" target="blank"><img src="https://img.shields.io/twitter/follow/mirazdev?logo=twitter&style=for-the-badge" alt="mirazdev" /></a> </p>
 
-- 🌱 I’m currently learning **React , Javascript , Scss**
+- 🌱 I’m currently learning **React , Javascript , Tailwind css**
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
